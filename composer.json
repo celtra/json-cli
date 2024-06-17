@@ -13,7 +13,7 @@
     "ext-json": "*",
     "swaggest/json-diff": "^3.8.3",
     "php-yaoi/php-yaoi": "^1",
-    "symfony/yaml": "^3",
+    "symfony/yaml": "5.4.40",
     "salsify/json-streaming-parser": "^7.0",
     "swaggest/json-schema": "^0.12.41",
     "swaggest/go-code-builder": "0.4.51",
@@ -22,7 +22,7 @@
     "swaggest/json-schema-maker": "^0.3.7"
   },
   "require-dev": {
-    "phperf/phpunit": "4.8.38"
+    "phperf/phpunit": "^7.0"
   },
   "autoload": {
     "psr-4": {
